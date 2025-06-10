@@ -22,13 +22,9 @@
 <a href="https://github.com/ydataai/pandas-profiling">
     <img src="https://img.shields.io/badge/ydata%20profiling-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<!-- YData Synthetic-->
-<a href="https://github.com/ydataai/ydata-synthetic">
+<!-- YData SDK>
+<a href="https://github.com/ydataai/ydata-sdk">
     <img src="https://img.shields.io/badge/ydata%20synthetic-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<!-- YData Quality-->
-<a href="https://github.com/ydataai/ydata-quality">
-    <img src="https://img.shields.io/badge/ydata%20quality-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/company/data-centric-ai-community/"><img height="25" src="https://assets.ydata.ai/external/ld.png"/></a>
 <a href="https://twitter.com/YData_ai"><img height="25" src="https://assets.ydata.ai/external/tw.png"/></a>
@@ -37,8 +33,8 @@
 
 <p></p>
 
-👩‍🏫 I'm YData's Chief Data Officer
+👩‍🏫 I'm YData's Chief Tech Officer - Founding ML Engineer
 
-📬 Feel free to get in touch! You can reach us at [Hello](hello@ydata.ai) or [Developers](developers@ydata.ai) or join us at our [Discord Server](https://discord.gg/mw7xjJ7b7s)
+📬 Feel free to get in touch! You can reach us at our [Discord Server](https://discord.gg/mw7xjJ7b7s)
 
 ![footer:dcai](https://assets.ydata.ai/dcai/footer.png)
